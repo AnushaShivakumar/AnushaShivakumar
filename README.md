@@ -1,8 +1,11 @@
 
 
-### Hi there 👋 
 
 <img src="https://cdn.pixabay.com/photo/2018/08/18/13/26/interface-3614766_960_720.png">
+
+<h1 align="center">HOLA 👋, ANUSHA HERE</h1>
+<h3 align="center">Computer Scienc Student</h3>
+
 
 - 🔭 I’m currently working on Sign language conversion
 - 🌱 I’m currently learning Computer Vision
@@ -121,14 +124,6 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-      alt="pandas"
       width="40"
       height="40"
     />
