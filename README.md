@@ -18,7 +18,9 @@
 <br />
 
 ### Languages and Tools:
+<a href="https://www.instagram.com/_.world__of__art._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ranjini.r_" height="30" width="40" /></a>
 
+<!-- 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://code.visualstudio.com/" />][website]
 [<img align="left" alt="HTML5" width="26px" src="https://developer.mozilla.org/en-US/docs/Web/HTML" />][website]
 [<img align="left" alt="CSS3" width="26px" src="https://developer.mozilla.org/en-US/docs/Web/CSS" />][website]
@@ -31,7 +33,7 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://github.com/AnushaShivakumar" />][website]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
-
+ -->
 <br />
 <br />
 
