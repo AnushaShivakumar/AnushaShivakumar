@@ -12,7 +12,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Surge of love towards dance and learning new things :)
 - 📫 How to reach me: Email - anushagsk01@gmail.com.
-- 
+
 ### Connect with me:
 
 <p align="left">
