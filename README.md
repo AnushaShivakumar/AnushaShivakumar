@@ -13,13 +13,15 @@
 ### Connect with me:
 \
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://www.instagram.com/_.world__of__art._/" />][instagram]
+
+<a href="https://www.instagram.com/_.world__of__art._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.world__of__art._" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_.world__of__art._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.world__of__art._" height="30" width="40" /></a>
 
 <br />
 
 ### Languages and Tools:
-<a href="https://www.instagram.com/_.world__of__art._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ranjini.r_" height="30" width="40" /></a>
-
+<!-- <a href="https://www.linkedin.com/in/anusha-shivakumar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anusha-shivakumar" height="30" width="40" /></a>
+ -->
 <!-- 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://code.visualstudio.com/" />][website]
 [<img align="left" alt="HTML5" width="26px" src="https://developer.mozilla.org/en-US/docs/Web/HTML" />][website]
