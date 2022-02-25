@@ -4,7 +4,7 @@
 <img src="https://cdn.pixabay.com/photo/2018/08/18/13/26/interface-3614766_960_720.png">
 
 <h1 align="center">HOLA 👋, ANUSHA HERE</h1>
-<h3 align="center">Computer Scienc Student</h3>
+<h3 align="center">Computer Science Student</h3>
 
 
 - 🔭 I’m currently working on Sign language conversion
