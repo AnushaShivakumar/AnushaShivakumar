@@ -3,8 +3,8 @@
 
 Hello! I'm **Anusha**, a passionate **web developer**, **data analyst**, and **machine learning enthusiast**. I thrive on solving complex problems and continuously expanding my skills in technology. This GitHub profile showcases my journey through **web development**, **data analysis**, and **artificial intelligence**.
 ## How to Reach Me:
+[![Portfolio](https://img.shields.io/badge/Portfolio-B57EDC?style=for-the-badge&logo=github&logoColor=white)](https://anushashivakumar.github.io/Portfolio/)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=github&logoColor=white)](https://anushashivakumar.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anusha-shivakumar/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ans797@pitt.edu)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ihopethebookiscaptivating/)
