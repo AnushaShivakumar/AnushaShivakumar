@@ -10,7 +10,6 @@ Hello! I'm **Anusha**, a passionate **web developer**, **data analyst**, and **m
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ihopethebookiscaptivating/)
 
   <img src="https://komarev.com/ghpvc/?username=AnushaShivakumar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <br>
   <sub>Tracking profile views since April 2025.</sub>
 
 
