@@ -8,9 +8,11 @@ Hello! I'm **Anusha**, a passionate **web developer**, **data analyst**, and **m
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anusha-shivakumar/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ans797@pitt.edu)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ihopethebookiscaptivating/)
-<p align="center">
+
   <img src="https://komarev.com/ghpvc/?username=AnushaShivakumar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+  <br>
+  <sub>Tracking profile views since April 2025.</sub>
+
 
 
 
