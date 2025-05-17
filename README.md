@@ -8,8 +8,6 @@ Hello! I'm **Anusha**, a passionate **web developer**, **data analyst**, and **m
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ans797@pitt.edu)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ihopethebookiscaptivating/)
 
-  <img src="https://komarev.com/ghpvc/?username=AnushaShivakumar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <sub>Tracking profile views since April 2025.</sub>
 
 
 
